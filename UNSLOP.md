@@ -1,23 +1,3 @@
----
-name: unslop
-description: >-
-  Audit and refine an existing website, app, dashboard, or landing page so it feels
-  intentionally designed rather than generically AI-generated. Preserve product
-  behavior and brand identity; improve visual hierarchy, spacing, color, icons,
-  copy, typography, layout, data presentation, imagery, motion, responsiveness,
-  and accessibility. Use for requests to unslop, polish, clean up, critique,
-  or redesign an existing interface, including code, a live URL, or a screenshot.
-license: CC-BY-4.0
-metadata:
-  original_author: Damir Sokolovsky
-  original_repository: https://github.com/heydamir/unslop
-  adaptation: self-contained, implementation-focused edition
----
-
-# Unslop — a self-contained UI refinement skill
-
-Adapted from **unslop** by **Damir Sokolovsky** (https://github.com/heydamir/unslop), licensed **CC BY 4.0**. Retain this attribution when sharing adaptations. No external instruction files, example files, scripts, or reference images are required to use this skill.
-
 ## Mission
 
 Turn an existing interface into a **coherent, distinctive, functional design**. Keep what the product does; improve how clearly, credibly, and memorably it communicates.
