@@ -1,9 +1,5 @@
----
-name: leanrea
-description: Evidence-first reverse engineering with existing CLI tools, no MCP server. Analyze authorized Electron/JS, Mach-O/ELF/PE, Go/Rust/.NET, Android/Flutter, WASM, SQLite, network captures, firmware, and websites; trace features, inventory dependencies, compare builds, and explain findings.
----
 
-# leanrea — fast, evidence-first reverse engineering
+# Reverse Engineer Anything — fast, evidence-first reverse engineering
 
 **Identify → inventory → trace → verify → answer.** Use the cheapest local tool that can settle the user's question. No MCP server required. Commands below are templates: replace paths, adapt to the platform, and inspect errors.
 
@@ -90,6 +86,6 @@ Address each requested item with a short **finding, certainty, evidence, and lim
 
 Never claim a missing search hit means a feature is absent, or static code proves observed execution.
 
-## Dependencies and credit
+## Dependencies
 
-Use existing local tools; request approval before installs, downloads, target execution, external data transfer, or live instrumentation. If a tool is missing, use a read-only fallback or state the limitation. Original project: [leanrea](https://github.com/aicodeking/leanrea); its tool guidance credits [REA](https://github.com/morluto/rea). Maintain the project's MIT license and attribution on redistribution.
+Use existing local tools; request approval before installs, downloads, target execution, external data transfer, or live instrumentation. If a tool is missing, use a read-only fallback or state the limitation. 
