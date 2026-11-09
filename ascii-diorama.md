@@ -1,4 +1,4 @@
-# DIORAMA
+# ASCII Diorama
 
 Create a dense, animated miniature world rendered as coloured monospace glyphs. Adapt the scene to the user's subject while preserving the visual language: a carefully composed 3D diorama, readable text in the focal region, and soft tilt-shift blur toward the foreground and background.
 
