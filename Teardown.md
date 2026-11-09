@@ -1,4 +1,4 @@
-# TEARDOWN — One Machine, One Page
+# Teardown — One Machine, One Page
 
 ## Purpose
 
