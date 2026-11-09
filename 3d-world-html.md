@@ -1,8 +1,4 @@
----
-name: standalone-3d-world
-description: Create rich, interactive, educational 3D worlds, scientific models, visual effects, and physics simulations in a single self-contained standalone HTML file using Three.js. Combines standalone procedural synthesis with modern ES module import maps, PBR materials, GLSL shaders, post-processing bloom, CSS2D spatial labels, and interactive telemetry HUDs. Use whenever asked to generate a 3D scene, interactive 3D environment, educational model, product visualizer, or standalone 3D simulation in HTML.
----
-# standalone-3d-world
+# 3d-world-html
 
 Comprehensive super-skill for engineering scientifically accurate, visually stunning, interactive 3D worlds, simulations, and educational models in a single self-contained HTML file.
 
