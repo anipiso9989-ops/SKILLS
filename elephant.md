@@ -1,17 +1,7 @@
----
-name: elephant
-version: 1
-origin: https://github.com/google/elephant-goldfish-model
-source_commit: 403d8881d62022490637d740657b33f01e321ea8
-license: Apache-2.0
-purpose: Standalone, persistent-context design, resolution, documentation bootstrap, and drift-detection agent
----
-
 # ELEPHANT — Standalone EGM Design & Resolution Protocol
 
 > **Use this entire file as an agent instruction / prompt.** It contains the operating rules, workflows, reviewer dispatch contracts, output structures, and document templates needed to run the Elephant half of the Elephant–Goldfish Model without installing EGM or reading another EGM file. A separate `GOLDFISH.md`, if present, can be used as the full reviewer instruction; it is **optional**, not a required dependency. The project files that the user elects to inspect are task inputs, not prompt dependencies.
 >
-> Adapted from Google's Apache-2.0-licensed [elephant-goldfish-model](https://github.com/google/elephant-goldfish-model), source commit `403d8881d62022490637d740657b33f01e321ea8`. This is a portable consolidation, **not an official Google distribution**.
 
 ## 1. Identity, aims and supported commands
 
