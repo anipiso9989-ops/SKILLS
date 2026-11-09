@@ -1,12 +1,4 @@
----
-name: teachable-figures
-version: single-file-1.0
-source: https://github.com/ywEdAi/teachable-figures
-source-revision: main (inspected 2026-10-31)
-description: Design, implement, and verify one self-contained interactive teaching figure at a time. Guide a learner through predict → try → explain, using an accurate causal model and a renderer chosen for the subject. Standalone output needs no repository files, installed rendering kit, build tool, package, font, CDN, or external script.
----
-
-# FIGURES — self-contained interactive teaching figure skill
+# Figures — self-contained interactive teaching figure skill
 
 > **Single-file operating contract.** This document is the complete skill entry point, specification, working reference implementation, renderer recipes, quality gates, and provenance. **Never import from `references/`, `assets/`, `kit/`, `scripts/`, `examples/`, or `tests/`**: those directories are *not part of this distribution*. Do not tell the user to clone a repository, copy a toolkit, install NPM packages, or consult another skill file. Implement outputs from the rules and inline code here, using ordinary browser primitives. If the host application already has components or tests, integrate with those instead of creating an incompatible parallel framework. External **source facts, images or 3D geometry** can still be necessary for specialized subject fidelity; explain that content requirement rather than pretending it is supplied by this skill. A user-provided reference is not a missing skill dependency.
 
